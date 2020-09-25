@@ -1,8 +1,0 @@
-{
-    "appService.zipIgnorePattern": [
-        "node_modules{,/**}",
-        ".vscode{,/**}"
-    ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/1289e241-9bb6-4cba-8014-6e26576946d1/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/xcelestialPhoenix-CS3219-taskB",
-    "appService.deploySubpath": "."
-}
